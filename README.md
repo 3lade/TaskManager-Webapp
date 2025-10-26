@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Built with ❤️ by Your Name</p>
+  <p>Built with ❤️ by 3lade</p>
   <p>
     <a href="https://github.com/yourusername">
       <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"/>
